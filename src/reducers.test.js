@@ -1,6 +1,6 @@
 import * as type from './constants';
 
- import * as reducers from './reducers';
+import * as reducers from './reducers';
 
  describe('searchRobots', () => {
   const initialStateSearch = {
